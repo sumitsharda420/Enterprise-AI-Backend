@@ -1,0 +1,6 @@
+@DotNetAiChat_HostAddress = http://localhost:5039
+
+GET {{DotNetAiChat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
